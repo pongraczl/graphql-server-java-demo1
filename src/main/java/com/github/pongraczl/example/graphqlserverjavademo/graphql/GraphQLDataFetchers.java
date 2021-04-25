@@ -36,6 +36,12 @@ public class GraphQLDataFetchers {
         };
     }
 
+    public DataFetcher<List<Creature>> getAllZombies() {
+        return dataFetchingEnvironment -> {
+            return apocalypseService.getZombies();
+        };
+    }
+
     public DataFetcher<List<Creature>> getAllCreatures() {
         return dataFetchingEnvironment -> {
             return socialService.getEveryBody();
