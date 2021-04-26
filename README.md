@@ -7,9 +7,9 @@ Detailed README.md is in progress...
 ### Client
 ### References
 ### See also
-https://github.com/pongraczl/graphql-server-java-demo1
-https://github.com/pongraczl/graphql-server-java-demo2
-https://github.com/pongraczl/graphql-server-kotlin-demo1
+- https://github.com/pongraczl/graphql-server-java-demo1
+- https://github.com/pongraczl/graphql-server-java-demo2
+- https://github.com/pongraczl/graphql-server-kotlin-demo1
 
 
 ## How to use GraphQL by examples
